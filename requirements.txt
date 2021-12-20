@@ -1,6 +1,6 @@
-Pyrogram
-python-dotenv==0.10.3
+pyrogram==1.2.20
+python-dotenv
 psycopg2-binary
-python-telegram-bot==12.8
+python-telegram-bot==13.9
 TgCrypto
-sqlalchemy==1.3.20
+SQLAlchemy==1.4.28
